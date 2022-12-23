@@ -1,0 +1,351 @@
+[INFO ] 2022-12-13 08:17:42.132 [TestNG-tests-1] DragAndDropEx - Launching the browser
+[INFO ] 2022-12-13 08:18:01.498 [TestNG-tests-1] DragAndDropEx - Draganddrop functionality is tested
+[INFO ] 2022-12-13 08:18:01.506 [TestNG-tests-1] DragAndDropEx - Closing the browser
+[INFO ] 2022-12-13 08:18:45.380 [TestNG-tests-1] DragAndDropEx - Launching the browser
+[INFO ] 2022-12-13 08:18:53.766 [TestNG-tests-1] DragAndDropEx - Draganddrop functionality is tested
+[INFO ] 2022-12-13 08:18:53.775 [TestNG-tests-1] DragAndDropEx - Closing the browser
+[INFO ] 2022-12-15 18:21:34.594 [TestNG-tests-1] LoginPage - Verifying open admin user login
+[INFO ] 2022-12-15 18:21:39.076 [TestNG-tests-1] LoginPage - Verifying admin user login
+[INFO ] 2022-12-15 18:21:40.404 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-15 18:32:08.026 [TestNG-tests-1] LoginPage - Verifying open admin user login
+[INFO ] 2022-12-15 18:32:10.986 [TestNG-tests-1] LoginPage - Verifying admin user login
+[INFO ] 2022-12-15 18:32:12.686 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-15 18:35:17.445 [TestNG-tests-3] LoginPage - Verifying open admin user login
+[INFO ] 2022-12-15 18:35:20.145 [TestNG-tests-3] LoginPage - Verifying admin user login
+[INFO ] 2022-12-15 18:35:22.345 [TestNG-tests-3] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 08:51:52.643 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 08:51:54.221 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 08:51:55.844 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 10:54:53.068 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 10:54:55.002 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 10:54:56.132 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 10:54:57.501 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 10:55:00.054 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 10:55:01.200 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 10:57:41.559 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 10:57:43.035 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 10:57:44.031 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 10:57:45.502 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 10:57:48.575 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 10:57:49.862 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 10:59:01.325 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 10:59:04.279 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 10:59:05.423 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 10:59:07.070 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 10:59:09.868 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 10:59:10.766 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 11:01:10.899 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 11:01:12.697 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 11:01:13.762 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 11:02:32.182 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 11:02:33.731 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 11:02:34.773 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:00:21.940 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:00:23.684 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:00:24.747 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:02:58.181 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:03:00.178 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:03:01.160 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:03:31.633 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:03:33.356 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:03:34.353 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:04:13.799 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 12:10:01.632 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:10:03.323 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:10:04.427 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:10:44.084 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 12:14:16.194 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:14:17.891 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:14:18.976 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:14:26.661 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 12:16:47.620 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:16:49.200 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:16:50.559 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:19:20.316 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:19:21.895 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:19:22.965 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:19:30.362 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 12:21:13.374 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:21:15.162 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:21:16.241 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:21:23.524 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 12:21:24.932 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-16 12:22:23.214 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:22:24.944 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:22:26.739 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:22:28.146 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:22:30.650 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:22:31.636 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:22:38.812 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 12:22:40.036 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-16 12:23:42.489 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:24:24.848 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:24:37.363 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:24:40.108 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:24:41.232 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:24:48.558 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 12:24:49.917 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-16 12:25:03.831 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:25:05.498 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:25:06.606 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:25:08.214 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 12:25:10.707 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 12:25:11.729 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 12:25:19.103 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 12:25:20.319 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-16 14:55:40.850 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 14:55:42.351 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 14:55:43.455 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 14:55:45.746 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 14:55:48.344 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 14:55:49.386 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 14:55:56.713 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 14:55:58.121 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-16 15:00:59.114 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 15:01:01.346 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 15:01:02.546 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 15:01:04.089 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 15:01:06.837 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 15:01:07.833 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 15:01:15.196 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 15:01:16.545 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-16 15:02:24.716 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 15:02:26.394 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 15:02:27.412 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 15:02:28.815 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 15:02:31.519 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 15:02:32.508 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 15:02:39.778 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 15:02:41.052 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-16 19:15:28.834 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 19:15:31.619 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 19:15:33.154 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 19:15:34.899 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-16 19:15:40.083 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-16 19:15:41.438 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-16 19:15:50.390 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-16 19:15:52.022 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-17 07:52:33.808 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-17 07:52:35.887 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-17 07:52:37.852 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-17 07:52:46.580 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-17 07:52:49.476 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-17 07:52:50.774 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-17 07:52:59.593 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-17 07:53:01.465 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-19 08:43:42.530 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-19 08:43:44.776 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-19 08:43:46.232 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-19 08:43:53.877 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-19 08:43:56.693 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-19 08:43:58.178 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-19 08:44:06.582 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-19 08:44:08.495 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-19 08:44:11.393 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-19 08:44:14.267 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-19 08:44:15.876 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 07:46:19.825 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 07:46:22.927 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 07:46:25.369 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 07:48:00.202 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 07:48:01.946 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 07:48:03.556 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 07:50:29.927 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 07:50:31.159 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 07:50:33.028 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 07:51:49.267 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 07:51:51.198 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 07:51:52.851 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 07:53:44.683 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 07:53:48.751 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 07:56:25.974 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 07:56:27.428 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 07:56:28.961 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 07:56:42.565 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 07:56:44.696 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:04:43.426 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:04:45.013 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:04:46.819 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:05:01.106 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 08:05:03.072 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:16:06.019 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:16:08.548 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:16:10.380 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:16:25.088 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 08:16:26.961 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:16:27.012 [TestNG-tests-1] UserHomePage - Deposit is not working
+[INFO ] 2022-12-21 08:16:58.010 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:16:59.600 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:17:01.172 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:17:15.625 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 08:17:17.498 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:21:15.037 [TestNG-tests-1] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2022-12-21 08:22:13.482 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:22:15.225 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:22:16.827 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:22:30.915 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 08:22:33.047 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:22:33.094 [TestNG-tests-1] UserHomePage - Deposit is not working
+[INFO ] 2022-12-21 08:24:08.289 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:24:09.682 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:24:11.257 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:24:25.461 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 08:24:27.346 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:25:09.557 [TestNG-tests-1] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2022-12-21 08:26:28.792 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:26:30.432 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:26:31.988 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:26:46.290 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 08:26:50.662 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:26:50.727 [TestNG-tests-1] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2022-12-21 08:27:24.895 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:27:26.663 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:27:28.833 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:27:37.678 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:27:40.409 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:27:41.960 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:27:50.116 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 08:27:54.406 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:27:57.105 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 08:27:59.622 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 08:28:01.033 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 08:28:14.877 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 08:28:19.174 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 08:28:19.214 [TestNG-tests-1] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2022-12-21 09:28:04.060 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 09:28:05.802 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 09:28:07.407 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 09:28:15.359 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 09:28:18.032 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 09:28:19.431 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 09:28:28.101 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 09:28:32.500 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 09:28:36.060 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 09:28:39.075 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 09:28:40.467 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 09:28:54.501 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 09:28:58.833 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 09:28:58.918 [TestNG-tests-1] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2022-12-21 12:42:22.352 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 12:42:25.163 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 12:42:26.546 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 12:42:42.323 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 12:42:46.609 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 12:42:46.834 [TestNG-tests-1] UserHomePage - Deposit is not working
+[INFO ] 2022-12-21 12:44:17.238 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 12:44:20.156 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 12:44:21.356 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 12:44:33.919 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 12:44:37.943 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 12:44:37.983 [TestNG-tests-1] UserHomePage - Deposit is not working
+[INFO ] 2022-12-21 12:55:11.726 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 12:55:13.792 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 12:55:15.546 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 12:55:28.292 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 12:55:32.658 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 12:55:32.710 [TestNG-tests-1] UserHomePage - Deposit is not working
+[INFO ] 2022-12-21 13:01:17.154 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 13:01:18.653 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 13:01:19.721 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 13:01:32.428 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 13:01:36.430 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 13:01:36.469 [TestNG-tests-1] UserHomePage - Deposit is not working
+[INFO ] 2022-12-21 13:13:18.330 [TestNG-tests-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 13:13:20.101 [TestNG-tests-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 13:13:21.262 [TestNG-tests-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 13:13:33.733 [TestNG-tests-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-21 13:13:37.858 [TestNG-tests-1] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-21 13:13:37.902 [TestNG-tests-1] UserHomePage - Deposit is not working
+[INFO ] 2022-12-21 22:38:35.138 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 22:38:37.473 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 22:38:39.044 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-21 22:39:51.942 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-21 22:39:53.510 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-21 22:39:55.043 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 00:06:48.366 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 00:06:50.264 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 00:06:51.912 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 00:54:31.311 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 00:54:32.954 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 00:54:34.514 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 00:58:51.241 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 00:58:53.026 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 00:58:54.553 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 01:06:53.798 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 01:06:55.069 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 01:06:56.644 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 07:45:00.351 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 07:45:02.590 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 07:45:04.665 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 07:45:13.171 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 07:45:16.658 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 07:45:18.011 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 07:45:25.884 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-22 07:45:30.456 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-22 07:45:33.139 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 07:45:40.188 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 07:45:41.857 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 07:45:54.785 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-22 07:45:58.836 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-22 07:45:58.874 [main] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2022-12-22 16:27:01.999 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 16:27:12.347 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 16:27:29.075 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 16:40:25.474 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 16:40:26.649 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 16:53:57.364 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 16:54:00.646 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 16:54:52.918 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 16:54:55.199 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 16:56:16.452 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 16:56:17.534 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:04:21.356 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:04:23.325 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:29:45.172 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:29:46.268 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:35:43.750 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:35:46.230 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:38:31.082 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:38:32.905 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:40:55.310 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:40:57.294 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:43:15.448 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:43:17.642 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:43:19.870 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 17:43:28.451 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:43:33.051 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:43:34.868 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 17:43:42.291 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-22 17:43:46.520 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-22 17:43:49.018 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:43:52.533 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:43:53.594 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 17:44:06.069 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-22 17:44:10.115 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-22 17:44:10.158 [main] UserHomePage - Deposit is not working
+[INFO ] 2022-12-22 17:47:01.921 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:47:03.423 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:47:04.604 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 17:47:12.600 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:47:15.243 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:47:16.432 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 17:47:25.418 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-22 17:47:29.456 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-22 17:47:31.594 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-22 17:47:34.301 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-22 17:47:35.305 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-22 17:47:47.892 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-22 17:47:52.022 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-22 17:47:52.060 [main] UserHomePage - Deposit is not working
+[INFO ] 2022-12-23 08:00:47.737 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-23 08:01:13.450 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-23 08:01:16.656 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-23 08:01:24.937 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-23 08:01:40.121 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-23 08:01:44.561 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-23 08:01:56.353 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-23 08:02:28.639 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-23 08:02:38.541 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-23 08:02:55.085 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-23 08:03:00.507 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-23 08:03:00.547 [main] UserHomePage - Deposit is not working
