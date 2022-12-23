@@ -77,7 +77,7 @@ public class VerifyDepositAmount extends BasePage{
 		//Verify Deposit Amount
 		userHome.verifyAmount(expected_Balance);
 		
-		
+		//Logout
 		userHome.logout();
 		
 

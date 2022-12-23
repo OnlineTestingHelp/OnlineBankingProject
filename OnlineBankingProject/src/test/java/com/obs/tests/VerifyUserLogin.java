@@ -63,6 +63,7 @@ public class VerifyUserLogin extends BasePage{
 		UserLoginPage userPage = new UserLoginPage(driver, test);
 		userPage.userLogin(emailId, userPwd);
 		
+		//Verify welcome text
 		UserHomePage userHome = new UserHomePage(driver, test);
 		userHome.verifyWelcomeText();
 		userHome.logout();
