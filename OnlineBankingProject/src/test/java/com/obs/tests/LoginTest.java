@@ -26,7 +26,7 @@ public class LoginTest extends BasePage{
 	@Test
 	public void verifyLogin() throws IOException, InterruptedException {
 
-		
+		//Verify admin login
 		String url,userName,Password;
 		
 		url = ReadProperties.readProp("AdminURL");
